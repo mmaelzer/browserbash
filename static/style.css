@@ -1,0 +1,32 @@
+body {
+  background: #000;
+  color: #fff;
+  margin: 0;
+}
+
+input:focus {
+  outline: 0;
+}
+
+input {
+  -webkit-appearance: none;
+  font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+  font-size: 1.0em;
+  margin: 0;
+  padding: 0;
+}
+
+#shell {
+  font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New, monospace;
+  padding: 4px;
+}
+
+#prompt {
+  background: #000;
+  color: #fff;
+  border: none;
+}
+
+#prompt-out {
+  white-space: pre;
+}

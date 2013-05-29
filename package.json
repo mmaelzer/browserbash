@@ -1,0 +1,16 @@
+{
+  "name": "browserbash",
+  "version": "0.1.0",
+  "description": "Bash in the browser",
+  "main": "server.js",
+  "dependencies": {
+    "ecstatic": "~0.4.2",
+    "shoe": "0.0.11",
+    "domready": "~0.2.11"
+  },
+  "devDependencies": {
+    "browserify": "2.14.2"
+  },
+  "author": "Mike Maelzer <mmaelzer@gmail.com>",
+  "license": "MIT"
+}
