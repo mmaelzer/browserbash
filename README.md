@@ -8,4 +8,4 @@ Uses [browserify](https://github.com/substack/node-browserify) and [shoe](https:
 Instructions
 ------------
 
-For now, clone the repo and run `node server.js`. Connect to `localhost:9999` and off you go issuing bash commands through a webpage that looks something, but not exactly, like a bash shell prompt.
+For now, clone the repo, run `npm install`, and then run `node server.js`. Connect to `localhost:9999` and off you go issuing bash commands through a webpage that looks something, but not exactly, like a bash shell prompt.
